@@ -1,41 +1,52 @@
 ## Hi there 👋
-# XTECHON - Meet Our Team
+<h2>Hello, We're XTECHON!</h2>
 
-## About Us
-Welcome to **XTECHON**! We are a dynamic team committed to delivering top-notch IT solutions. Our expertise spans across various domains such as Machine Learning, Data Engineering, QA Automation, and more. Meet our core team members who make it all happen:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
----
+### Devendra Kumar  
+**Generative AI Engineer & Data Scientist**
 
-### **Devendra Kumar**  
-**Expertise**: LLM, Chatbots, Machine Learning, Data Science, Data Engineering  
-
-Devendra is an experienced IT professional with over 14 years of expertise in cutting-edge technologies. His focus areas include:
-
-- **Large Language Models (LLMs)**: Developing and fine-tuning LLMs for business automation and advanced AI solutions.
-- **Chatbots**: Building intelligent, responsive, and user-friendly chatbots using NLP and machine learning.
-- **Machine Learning**: Implementing robust machine learning models using tools like TensorFlow and Scikit-learn.
-- **Data Science**: Specializes in data analysis, predictive modeling, and data visualization.
-- **Data Engineering**: Expert in data pipeline management and Big Data tools such as Apache Kafka, Hadoop, and Spark.
-
-Devendra is passionate about pushing the boundaries of AI, delivering innovative solutions, and leveraging data-driven insights to empower businesses.
+- 💡 Currently working on: LLMs, NLP, Chatbots, Machine Learning, and Data Engineering projects  
+- 🚀 Currently learning: MLOps and Cloud AI Solutions  
+- 👯 Looking to collaborate on: AI models, Deep Learning, and Data Science  
+- 🧲 Interests: AI, Data Science, and Engineering  
 
 ---
 
-### **Sonal Garg**  
-**Expertise**: Quality Assurance (QA), QA Automation, Playwright
+### Sonal Garg  
+**QA Automation Specialist & Playwright Expert**
 
-Sonal is a QA specialist with over 18 years of IT experience, including 5-6 years focused on test automation. Her key areas include:
-
-- **Quality Assurance**: Ensuring software quality across all stages of development with rigorous testing strategies.
-- **QA Automation**: Expertise in automating test cases for mobile and web applications using modern tools.
-- **Playwright**: Specialized in Playwright automation for end-to-end testing of web applications.
-- **Bug Tracking**: Proficient in documenting and resolving software defects using Jira and Confluence.
-
-Sonal’s commitment to quality ensures that every project meets the highest standards of performance, usability, and reliability.
+- 💡 Currently working on: QA Automation, Playwright testing, and Software Quality Assurance  
+- 🚀 Currently learning: Advanced Test Automation and CI/CD pipelines  
+- 👯 Looking to collaborate on: Test Automation, QA strategy, and Playwright integrations  
+- 🧲 Interests: Software Quality, Automation, and Playwright  
 
 ---
 
-We are excited to collaborate with you on your next project! Feel free to explore our work or get in touch for more information.
+We love to collaborate and connect with fellow enthusiasts in AI, QA, and Data Science!  
+Feel free to check out our work or reach out to discuss how we can help with your next project.  
+
+<a href="https://www.linkedin.com/in/devendra-kumar"><img align="left" alt="Devendra Kumar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+<a href="https://www.linkedin.com/in/sonal-garg"><img align="left" alt="Sonal Garg | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+
+<br><br>
+
+---
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-LLM-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ML-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
+
+<br><br>
+
+<p>
+    <img class="center" alt="XTECHON's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=xtechon.team" />
+</p>
+
+
 
 
 <!--
