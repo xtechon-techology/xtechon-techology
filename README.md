@@ -1,9 +1,8 @@
-## Hi there 👋
 <h2>Hello, We're XTECHON!</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Devendra Kumar  
+### Devendra Kumar  (Manager Data Science Team)
 **Generative AI Engineer & Data Scientist**
 
 - 💡 Currently working on: LLMs, NLP, Chatbots, Machine Learning, and Data Engineering projects  
@@ -13,7 +12,7 @@
 
 ---
 
-### Sonal Garg  
+### Sonal Garg  (Manager QA Team)
 **QA Automation Specialist & Playwright Expert**
 
 - 💡 Currently working on: QA Automation, Playwright testing, and Software Quality Assurance  
