@@ -24,7 +24,7 @@
 We love to collaborate and connect with fellow enthusiasts in AI, QA, and Data Science!  
 Feel free to check out our work or reach out to discuss how we can help with your next project.  
 <a href="https://www.linkedin.com/in/devendra-kumar-data-expert/">Devendra Kumar<img align="left" alt="Devendra Kumar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-<a href="https://www.linkedin.com/in/sonalgarg32/">Sonal Garg<img align="left" alt="Sonal Garg | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+
 <br><be>
 
 ---
