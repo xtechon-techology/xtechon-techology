@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Devendra Kumar  (Manager Data Science Team)
+### Devendra Kumar  (Manager Data Science)
 **Generative AI Engineer & Data Scientist**
 
 - 💡 Currently working on: LLMs, NLP, Chatbots, Machine Learning, and Data Engineering projects  
@@ -12,7 +12,7 @@
 
 ---
 
-### Sonal Garg  (Manager QA Team)
+### Sonal Garg  (Project Manager)
 **QA Automation Specialist & Playwright Expert**
 
 - 💡 Currently working on: QA Automation, Playwright testing, and Software Quality Assurance  
