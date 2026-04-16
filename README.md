@@ -12,13 +12,6 @@
 
 ---
 
-### Sonal Garg  (Project Manager)
-**QA Automation Specialist & Playwright Expert**
-
-- 💡 Currently working on: QA Automation, Playwright testing, and Software Quality Assurance  
-- 🚀 Currently Using: Advanced Test Automation and CI/CD pipelines  
-- 👯 Looking to collaborate on: Test Automation, QA strategy, and Playwright integrations  
-- 🧲 Interests: Software Quality, Automation, and Playwright  
 
 ---
 We love to collaborate and connect with fellow enthusiasts in AI, QA, and Data Science!  
